@@ -38,6 +38,9 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151017114253.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151017125930.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20151017125959.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151017130023.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
